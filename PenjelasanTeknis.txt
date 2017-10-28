@@ -1,0 +1,39 @@
+Nama: Limas Baginta
+NPM: 1306368690
+Jurusan: Teknik Komputer
+
+Tugas Workshop 1
+
+Pada Tugas Workshop ini, digunakan berbagai macam script html untuk mendukung tampilan dari website.
+
+Untuk menambahkan playlist musik digunakan script sebagai berikut:
+<audio controls>
+<source src="resource/hohey.mp3" type="audio/mpeg">
+<source src="resource/hohey.ogg" type="audio/ogg">
+<embed height="50" width="100" src="hohey.mp3">
+</audio>
+
+Untuk menambahkan video yang dapat diputar pada halaman Website digunakan script sebagai berikut:
+<video width="480" height="360" controls autoplay>
+  <source src="resource/multimedia.mp4" type="video/mp4">
+  
+Untuk menambahkan animasi digunakan script berikut:
+<img src="resource/dragon.gif">
+
+Sedangkan untuk menambahkan gambar pada halaman Website digunakan script berikut:
+<img src="resource/multimedia.jpg" width="480" height="240">
+
+Beberapa konten seperti musik dan video dapat diklik pada menu navigasi dapat digunakan sebagai shortcut untuk melihat file.
+
+Pada file html, terdapat javascript sebagai template yang diperoleh dari paddsolutions.com 
+
+Terima kasih.
+
+Referensi:
+1. www.youtube.com/
+2. mp3skullss.com
+3. gambaranimasi.org
+4. powtoon.com/
+5. paddsolutions.com
+
+
